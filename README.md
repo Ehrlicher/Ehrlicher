@@ -1,2 +1,2 @@
 ### My Discord Server
-<iframe src="https://discord.com/widget?id=938464281081557023&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<a href="[https://discord.gg/QGkCHebKXc]"><img src="https://discord.com/api/guilds/938464281081557023/widget.png?style=banner2"></a>
