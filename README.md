@@ -1,5 +1,2 @@
 ### My Discord Server
-<a href="[https://discord.gg/QGkCHebKXc]"><img src="https://discord.com/api/guilds/938464281081557023/widget.png?style=banner2"></a>
-
-
-<a href="[https://twitch.tv/ehrlichertv]"><text src="w"></a>
+<a href="[https://discord.gg/QGkCHebKXc]"><img src="https://discord.com/api/guilds/1016743932228550666/widget.png?style=banner2"></a>
