@@ -2,7 +2,7 @@
 
 # DragonTech Systems since 2022
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Lua
 
 - 🏮 Website: https://dragoncrew.eu
 
