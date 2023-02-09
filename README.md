@@ -14,7 +14,8 @@
 <p align="left">
 <a href="https://instagram.com/ehrlichertv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ehrlichertv" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ehrlichertv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ehrlicher" height="30" width="40" /></a>
-<a href="https://discord.gg/T7djC84HmZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[dsc.gg/minetv](https://discord.gg/T7djC84HmZ)" height="30" width="40" /></a>
+<a href="https://discord.gg/T7djC84HmZ" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1035294270048981093/1061701396942045314/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="[discord.gg/T7djC84HmZ](https://discord.gg/T7djC84HmZ)" height="30" width="40" /></a>
+<a href="https://twitch.tv/ehrlichertv" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1035294270048981093/1073340249989730324/twitch_logo_icon_189242.png" alt="[twitch.tv/ehrlichertv](https://twitch.tv/ehrlichertv)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools <3</h3>
