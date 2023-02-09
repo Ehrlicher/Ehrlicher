@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehrlicher&label=Profile%20views&color=0e75b6&style=flat" alt="ehrlicher" /> </p>
 
 <h3 align="left">DragonTech Systems since 2022</h3>
+
 - 🌱 I’m currently learning Python
 
 - 🏮 Website https://dragoncrew.eu
