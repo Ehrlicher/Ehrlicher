@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Lua
 
-- 🏮 Website: https://dragoncrew.eu
+- 🏮 Website: https://dragontech.systems
 
 - 📫 Email: ehrlicher@dragoncrew.eu
 
