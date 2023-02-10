@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DragonCrew&pause=1000&color=651AF7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ehrlicher+%3A)" alt="Typing SVG" /></a>
+<a href="https://dragontech.systems"><img src="https://readme-typing-svg.demolab.com?font=DragonCrew&pause=1000&color=651AF7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ehrlicher+%3A)" alt="Typing SVG" /></a>
 
 # DragonTech Systems since 2022
 
