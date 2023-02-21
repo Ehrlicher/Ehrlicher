@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Lua
 
 - 🏮 Website: https://dragontech.systems
-
 - 📫 Email: ehrlicher@dragoncrew.eu
 
 - 🌸 Come from Germany
