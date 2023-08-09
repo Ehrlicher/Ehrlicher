@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Python & Javascript
 
 - 🏮 Website: https://ehrlicher.xyz
-
 - 📫 Email: mail@ehrlicher.xyz
 
 - 🌸 Come from Germany
