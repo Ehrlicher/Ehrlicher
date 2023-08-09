@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning Python & Javascript
 
-- 🏮 Website: https://dragontech.systems
+- 🏮 Website: https://ehrlicher.xyz
 
-- 📫 Email: ehrlicher@dragoncrew.eu
+- 📫 Email: mail@ehrlicher.xyz
 
 - 🌸 Come from Germany
 
