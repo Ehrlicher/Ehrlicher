@@ -2,7 +2,7 @@
 
 # Flamepixel since 2023
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 
 - 🏮 Website: https://ehrlicher.xyz
 
