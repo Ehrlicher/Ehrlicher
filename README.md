@@ -1,14 +1,12 @@
 <a href="https://ehrlicher.xyz"><img src="https://readme-typing-svg.demolab.com?font=DragonCrew&pause=1000&color=651AF7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ehrlicher+%3A)" alt="Typing SVG" /></a>
 
-# Flamepixel since 2023
+# Ehrlicher Ehrlicher Ehrlicher Ehrlicher...
 
-- 🌱 I’m currently learning Java/Kotlin
+- 🌱 I’m a Java/Kotlin Developer who create minecraft plugins :>
 
 - 🏮 Website: https://ehrlicher.xyz
 
 - 📫 Email: mail@ehrlicher.xyz
-
-- 🌸 Come from Germany
 
 <h3 align="left">Social Media ¯\_(ツ)_/¯</h3>
 <p align="left">
